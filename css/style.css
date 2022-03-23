@@ -76,3 +76,7 @@ body, p, h1, h2, span, button, textarea {
   margin-bottom: 50px;
   margin-top: 60px;
 }
+.pagina-adicionar{
+  justify-content: center;
+  margin-left: 25%;
+}
